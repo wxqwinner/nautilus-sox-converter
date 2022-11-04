@@ -1,10 +1,10 @@
-# autilus-sox-converter
+# nautilus-sox-converter
 
 ![demo](https://github.com/wxqwinner/nautilus-sox-converter/blob/main/docs/assets/demo.gif)
 
 ## quick start
 
-1. download the file 
+1. download the file
 ```bash
 # for nautilus 4.0 (nautilus-sox-converter_4.0.py)
 ~/.local/share/nautilus-python/extensions/nautilus-sox-converter_4.0.py
